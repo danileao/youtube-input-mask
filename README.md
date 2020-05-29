@@ -15,7 +15,7 @@ Nele utilizamos `regex` para fazer a formatação e validação dos nossos input
 ```bash
 
     // Clonar repositório
-    $ git clone https://github.com/danileao/youtube-input-mask
+    $ git clone https://github.com/danileao/youtube-input-mask.git
 
     // Acessar diretório
     $ cd youtube-input-mask
@@ -30,6 +30,6 @@ Nele utilizamos `regex` para fazer a formatação e validação dos nossos input
 ---
 
 <p align="center">
-    <img src="public/twitter.png" width="200">
-    <img src="public/insta.png"  width="200">
+   <a href="https://twitter.com/danieleleao"> <img src="public/twitter.png" width="200"></a>
+    <a href="https://www.instagram.com/dani_leao/"><img src="public/insta.png"  width="200"></a>
 </p>
