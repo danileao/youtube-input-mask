@@ -1,0 +1,20 @@
+.button {
+  display: flex;
+  width: 200px;
+  line-height: 25px;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  background: #631aa3;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+#root {
+  display: flex;
+  place-content: center;
+}
+
+.container {
+  width: 500px;
+}

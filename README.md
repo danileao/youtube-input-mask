@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="public/apresentacao.gif">
+</p>
+
 # 🔖 Sobre
 
 Nesse projeto você poderá ver como criar `input masks` personalizados, de acordo com as necessidades do seu projeto.
